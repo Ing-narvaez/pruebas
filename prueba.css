@@ -5,4 +5,8 @@
     width: 1000px;
     height: 80px;
     border-radius: 10px;
+    border-color: coral;
+    color: #fff;
+    font-size: 30px;
+    text-align: center;
 }
